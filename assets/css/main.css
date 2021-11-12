@@ -2630,8 +2630,8 @@ input, select, textarea {
 		background-image: url(/images/KelloggsStrike.jpg);
 		background-size: contain;
 		background-repeat:  no-repeat;
-		height: fit-content;
-		width: fit-content;
+		height: 100%;
+		width: 100%;
 	}
 
 
