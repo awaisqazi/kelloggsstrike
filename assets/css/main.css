@@ -2627,10 +2627,10 @@ input, select, textarea {
 
 /* Image */
 	.tonythetigerimage{
-		background-image: url(images/KelloggsStrike.jpg);
-		background-size: cover;
+		background-image: url(/images/KelloggsStrike.jpg);
+		background-size: contain;
+		background-repeat:  no-repeat;
 		height: 100vh;
-		width: 50vw;
 	}
 
 
