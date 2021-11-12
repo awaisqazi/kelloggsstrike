@@ -2628,7 +2628,7 @@ input, select, textarea {
 /* Image */
 	.tonythetigerimage {
 		background-image: url('/images/KelloggsStrike.jpg');
-		background-size: cover;
+		background-size: contain;
 		height: 100vh;
 		width: 50vw;
 	}
