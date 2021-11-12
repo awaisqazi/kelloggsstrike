@@ -2626,6 +2626,12 @@ input, select, textarea {
 	}
 
 /* Image */
+	.tonythetigerimage{
+		background-image: url(images/KelloggsStrike.jpg);
+		background-size: cover;
+		height: 100vh;
+	}
+
 
 	.image {
 		border: 0;
