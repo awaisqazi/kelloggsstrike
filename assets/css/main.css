@@ -8491,7 +8491,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert .banner .image {
-				background-color: rgba(255, 255, 255, 0.125);
+				background-color: #e3003f;
 			}
 
 			#wrapper > .invert .banner.style4 .image {
