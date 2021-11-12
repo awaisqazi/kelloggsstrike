@@ -4385,7 +4385,7 @@ input, select, textarea {
 		}
 
 	.banner .image {
-		background-color: rgba(0, 0, 0, 0.125);
+		background-color: #e3003f;
 	}
 
 	.banner.invert .image {
